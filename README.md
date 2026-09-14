@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/PrimeFaces-2196F3?style=for-the-badge" alt="PrimeFaces"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </p>
 
 ### Backend
@@ -80,6 +81,8 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
   <img src="https://img.shields.io/badge/IBM%20DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DB2"/>
+  <img src="https://img.shields.io/badge/Paradox-005571?style=for-the-badge" alt="Paradox"/>
+  <img src="https://img.shields.io/badge/Solid%20SQL-005571?style=for-the-badge" alt="Solid SQL"/>
 </p>
 
 ### Cloud
@@ -102,4 +105,18 @@
   <img src="https://img.shields.io/badge/TDD-005571?style=for-the-badge" alt="TDD"/>
   <img src="https://img.shields.io/badge/BDD-005571?style=for-the-badge" alt="BDD"/>
   <img src="https://img.shields.io/badge/DevOps-005571?style=for-the-badge" alt="DevOps"/>
+</p>
+
+### Old School Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/QBasic-000080?style=for-the-badge" alt="Qbasic"/>
+  <img src="https://img.shields.io/badge/Clipper-4A0E4E?style=for-the-badge" alt="Clipper"/>
+  <img src="https://img.shields.io/badge/FoxPro-2A3C56?style=for-the-badge" alt="Foxpro"/>
+  <img src="https://img.shields.io/badge/Cobol-002B36?style=for-the-badge" alt="Cobol"/>
+  <img src="https://img.shields.io/badge/Pascal-287F85?style=for-the-badge" alt="Pascal"/>
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge" alt="Fortran"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2++&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Asp.net"/>
+  <img src="https://img.shields.io/badge/Delphi-B00020?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi"/>
 </p>
