@@ -15,6 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Development Best Practices
+* 👾 Solid
+* 👾 Clean Code
+* 👾 MicroFrontend
+* 👾 IoT (Internet of Things) Architecture.
+* 👾 Architectures: Hexagonal, Serverless, IaT, MVP, MVC, MVVM, TOGAF.
+* 👾 Design Patterns.
+* 👾 Clean Architecture.
+* 👾 Domain-Driven Design (DDD).
+* 👾 Event Storming.
+* 👾 System Integration and Migration.
+* 👾 Reverse Engineering.
+* 👾 Microservices.
+* 👾 API Testing: HTTP Methods, Status Codes, Payloads, and Contracts | Postman, GraphQL, and gRPC.
+* 👾 UML, BPMN
+
 ### Hello World! 👋
 
 * 👾 I am Emerson Vasconcelos Costa, Senior Software Engineer & Data Engineering Python.
