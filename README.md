@@ -106,6 +106,8 @@
   <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube"/>
   <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" alt="SonarLint"/>
   <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Checkmarx-6B34FD?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Checkmarx"/>
+  <img src="https://img.shields.io/badge/Fortify-1F4E79?style=for-the-badge" alt="Fortify"/>
   <img src="https://img.shields.io/badge/TDD-005571?style=for-the-badge" alt="TDD"/>
   <img src="https://img.shields.io/badge/BDD-005571?style=for-the-badge" alt="BDD"/>
   <img src="https://img.shields.io/badge/DevOps-005571?style=for-the-badge" alt="DevOps"/>
