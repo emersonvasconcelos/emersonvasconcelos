@@ -44,6 +44,9 @@
   <img src="https://img.shields.io/badge/DataLake%20House-005571?style=for-the-badge" alt="DataLake House"/>
   <img src="https://img.shields.io/badge/Dataware%20House-005571?style=for-the-badge" alt="Dataware House"/>
   <img src="https://img.shields.io/badge/Pipelines-005571?style=for-the-badge" alt="Pipelines"/>
+  <img src="https://img.shields.io/badge/Exploratory%20Analysis-8E44AD?style=for-the-badge" alt="Exploratory Analysis"/>
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-16A085?style=for-the-badge" alt="Data Preprocessing"/>
+  <img src="https://img.shields.io/badge/Data%20Governance-2C3E50?style=for-the-badge" alt="Data Governance"/>
 </p>
 
 ### Mobile
@@ -61,6 +64,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/PrimeFaces-2196F3?style=for-the-badge" alt="PrimeFaces"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
 ### Backend
