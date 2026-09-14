@@ -17,6 +17,29 @@
 
 ---
 
+## MVP-F1 75 years Machine Learning 👋
+
+<img src="F1-75_anos.jpg" align="left" width="300" style="margin-right: 25px; margin-bottom: 15px;" alt="F1 75 Years Champions" />
+
+<p><strong>🚀 Stacks:</strong> Python, Data Engineering, Machine Learning, PostgreSQL, Microsoft Fabric, Microsoft Power BI, AWS.</p>
+<p><strong>🎯 Objective</strong><br>
+An end-to-end data platform designed to collect, process, store, and analyze 75 years of historical Formula 1 data, delivering strategic insights for data analysts and motorsports enthusiasts.</p>
+
+<p><strong>🚀 MVP Proposal</strong><br>
+A streamlined data pipeline validating modern architectural viability—from raw data ingestion to insight visualization and predictive analytics.</p>
+
+<p><strong>📁 Repository Architecture</strong></p>
+<p>
+• <strong>Exploratory Analysis & Pre-processing:</strong> Data hygiene, EDA, and feature extraction.<br>
+• <strong>Data Engineering:</strong> ETL/ELT pipelines, orchestration, and structured data storage.<br>
+• <strong>Machine Learning:</strong> Predictive modeling for race outcomes and performance metrics.<br>
+• <strong>Deep Learning:</strong> Neural network models for complex historical pattern recognition.
+</p>
+
+<br clear="left"/>
+
+---
+
 ### Development Best Practices
 * 👾 Solid
 * 👾 Clean Code
