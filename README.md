@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Hello+World%2C+I+am+Emerson+Vasconcelos+Costa;Senior+Software+Engineer+%26+Python+Data+Engineer." alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
 ## My Portfolio 👋
 
 * 👾 I am Emerson Vasconcelos Costa, Senior Software Engineer & Data Engineering Python.
@@ -7,7 +15,7 @@
 * 🌱 I’m currently learning MBA USP Software Engoneering since 2026 until 2028 May
 * 👯 I’m looking to collaborate on Design solution architectures for robust, scalable full-stack systems.
 
-
+---
 
 ### Development Best Practices
 * 👾 Solid
@@ -23,7 +31,8 @@
 * 👾 Reverse Engineering.
 * 👾 Microservices.
 * 👾 API Testing: HTTP Methods, Status Codes, Payloads, and Contracts | Postman, GraphQL, and gRPC.
-* 👾 UML, BPMN
+* 👾 UML, BPMN.
+* 👾 Dashboards.
 
 ### Contact me
 <a href="https://www.linkedin.com/in/emersonvasconcelos" target="_blank">
