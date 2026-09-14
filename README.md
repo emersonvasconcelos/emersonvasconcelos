@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Hello+World%2C+I+am+Emerson+Vasconcelos+Costa;Senior+Software+Engineer+%26+Python+Data+Engineer." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Hello+World%2C+I+am+Emerson+Vasconcelos+Costa;Senior+Software+Engineer+%26+Python+Data+Engineer." alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </a>
 </div>
 
@@ -19,9 +19,14 @@
 
 ## MVP-F1 75 years Machine Learning 👋
 
-<img src="F1-75_anos.jpg" align="left" width="300" style="margin-right: 25px; margin-bottom: 15px;" alt="F1 75 Years Champions" />
+<div align="center">
+  <img src="F1-75_anos.jpg" alt="F1 75 Years Champions" style="max-width: 100%; height: auto; border-radius: 8px;" width="500" />
+</div>
+
+<br/>
 
 <p><strong>🚀 Stacks:</strong> Python, Data Engineering, Machine Learning, PostgreSQL, MongoDB, Microsoft Fabric, Microsoft Power BI, Pipelines, Azure, AWS.</p>
+
 <p><strong>🎯 Objective</strong><br>
 An end-to-end data platform designed to collect, process, store, and analyze 75 years of historical Formula 1 data, delivering strategic insights for data analysts and motorsports enthusiasts.</p>
 
@@ -35,8 +40,6 @@ A streamlined data pipeline validating modern architectural viability—from raw
 • <strong>Machine Learning:</strong> Predictive modeling for race outcomes and performance metrics.<br>
 • <strong>Deep Learning:</strong> Neural network models for complex historical pattern recognition.
 </p>
-
-<br clear="left"/>
 
 ---
 
