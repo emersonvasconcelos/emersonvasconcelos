@@ -1,19 +1,13 @@
 ## My Portfolio 👋
 
-<!--
-**emersonvasconcelos/emersonvasconcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 👾 I am Emerson Vasconcelos Costa, Senior Software Engineer & Data Engineering Python.
+* 🎓 Specialist with a Postgraduate Degree in Software Engineering for Data Science from PUC-Rio (2024–2025)
+* 🏎️ F1 75th Anniversary Data Engineering Project using Machine Learning, based on historical Formula 1 data and statistics.
+* 🔭 I’m currently working on Global Projects.
+* 🌱 I’m currently learning MBA USP Software Engoneering since 2026 until 2028 May
+* 👯 I’m looking to collaborate on Design solution architectures for robust, scalable full-stack systems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Development Best Practices
 * 👾 Solid
@@ -30,15 +24,6 @@ Here are some ideas to get you started:
 * 👾 Microservices.
 * 👾 API Testing: HTTP Methods, Status Codes, Payloads, and Contracts | Postman, GraphQL, and gRPC.
 * 👾 UML, BPMN
-
-### Hello World! 👋
-
-* 👾 I am Emerson Vasconcelos Costa, Senior Software Engineer & Data Engineering Python.
-* 🎓 Specialist with a Postgraduate Degree in Software Engineering for Data Science from PUC-Rio (2024–2025)
-* 🏎️ F1 75th Anniversary Data Engineering Project using Machine Learning, based on historical Formula 1 data and statistics.
-* 🔭 I’m currently working on Global Projects.
-* 🌱 I’m currently learning MBA USP Software Engoneering since 2026 until 2028 May
-* 👯 I’m looking to collaborate on ...
 
 ### Contact me
 <a href="https://www.linkedin.com/in/emersonvasconcelos" target="_blank">
