@@ -25,7 +25,7 @@
 
 <br/>
 
-<p><strong>🚀 Stacks:</strong> Python, Data Engineering, Machine Learning, PostgreSQL, MongoDB, Microsoft Fabric, Microsoft Power BI, Pipelines, Azure, AWS.</p>
+<p><strong>🚀 Stacks:</strong> Python, Spark, Data Engineering, Machine Learning, PostgreSQL, MongoDB, Microsoft Fabric, Microsoft Power BI, Pipelines, Azure, AWS.</p>
 
 <p><strong>🎯 Objective</strong><br>
 An end-to-end data platform designed to collect, process, store, and analyze 75 years of historical Formula 1 data, delivering strategic insights for data analysts and motorsports enthusiasts.</p>
