@@ -33,6 +33,22 @@
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
+### Artificial Intelligence
+<p align="left">
+  <img src="https://img.shields.io/badge/Agent%20Building-005571?style=for-the-badge" alt="Agent Building"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Short--term%20Memory%20%26%20Context-008080?style=for-the-badge" alt="Short-term Memory & Context Management"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-3C873A?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/RAG-6B46C1?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLMOps-2B6CB0?style=for-the-badge" alt="LLMOps"/>
+  <img src="https://img.shields.io/badge/Tool%20%26%20Function%20Calling-D97706?style=for-the-badge" alt="Tool Calling & Function Calling"/>
+  <img src="https://img.shields.io/badge/Agentic%20Workflows-4F46E5?style=for-the-badge" alt="Agentic Workflows"/>
+  <img src="https://img.shields.io/badge/AI%20Safety%20%26%20Guardrails-DC2626?style=for-the-badge" alt="AI Safety & Guardrails"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Antigravity-1E293B?style=for-the-badge" alt="Antigravity"/>
+</p>
+
 ### Data Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
@@ -47,6 +63,7 @@
   <img src="https://img.shields.io/badge/Exploratory%20Analysis-8E44AD?style=for-the-badge" alt="Exploratory Analysis"/>
   <img src="https://img.shields.io/badge/Data%20Preprocessing-16A085?style=for-the-badge" alt="Data Preprocessing"/>
   <img src="https://img.shields.io/badge/Data%20Governance-2C3E50?style=for-the-badge" alt="Data Governance"/>
+  <img src="https://img.shields.io/badge/Big%20Data-1565C0?style=for-the-badge" alt="Big Data"/>
 </p>
 
 ### Mobile
@@ -99,6 +116,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
@@ -108,6 +126,9 @@
   <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Checkmarx-6B34FD?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Checkmarx"/>
   <img src="https://img.shields.io/badge/Fortify-1F4E79?style=for-the-badge" alt="Fortify"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
   <img src="https://img.shields.io/badge/TDD-005571?style=for-the-badge" alt="TDD"/>
   <img src="https://img.shields.io/badge/BDD-005571?style=for-the-badge" alt="BDD"/>
   <img src="https://img.shields.io/badge/DevOps-005571?style=for-the-badge" alt="DevOps"/>
@@ -123,6 +144,7 @@
   <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge" alt="Fortran"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2++&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/ASP-0078D7?style=for-the-badge" alt="ASP"/>
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Asp.net"/>
   <img src="https://img.shields.io/badge/Delphi-B00020?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi"/>
 </p>
