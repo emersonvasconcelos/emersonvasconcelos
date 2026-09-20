@@ -8,7 +8,7 @@
 
 ## My Portfolio 👋
 
-* 👾 I am Emerson Vasconcelos Costa, Senior Software Engineer & Data Engineering Python.
+* 👾 I am Emerson Vasconcelos Costa, Senior Software Engineer & Python Data Engineering.
 * 🎓 Specialist with a Postgraduate Degree in Software Engineering for Data Science from PUC-Rio (2024–2025)
 * 🏎️ F1 75th Anniversary Data Engineering Project using Machine Learning, based on historical Formula 1 data and statistics.
 * 🔭 I’m currently working on Global Projects.
