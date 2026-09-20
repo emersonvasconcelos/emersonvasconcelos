@@ -17,7 +17,7 @@
 
 ---
 
-## [MVP-F1 75 years Machine Learning 👋](https://github.com/emersonvasconcelos/f1)
+## [MVP-F1 Machine Learning 👋](https://github.com/emersonvasconcelos/f1)
 
 <div align="center">
   <a href="https://github.com/emersonvasconcelos/f1">
