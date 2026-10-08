@@ -12,7 +12,7 @@
 * 🎓 Specialist with a Postgraduate Degree in Software Engineering for Data Science from PUC-Rio (2024–2025)
 * 🏎️ F1 75th Anniversary Data Engineering Project using Machine Learning, based on historical Formula 1 data and statistics.
 * 🔭 I’m currently working on Global Projects.
-* 🌱 I’m currently pursuing MBA USP Software Engoneering since 2026 until 2028 May
+* 🌱 I’m currently pursuing MBA USP Software Engineering since 2026 until 2028 May
 * 👯 I’m looking to collaborate on Design solution architectures for robust, scalable full-stack systems.
 
 ---
@@ -51,6 +51,7 @@ A streamlined data pipeline validating modern architectural viability—from raw
 * 👾 MicroFrontend
 * 👾 IoT (Internet of Things) Architecture.
 * 👾 Architectures: Hexagonal, Serverless, IaT, MVP, MVC, MVVM, TOGAF.
+* 👾 System Design.
 * 👾 Design Patterns.
 * 👾 Clean Architecture.
 * 👾 Domain-Driven Design (DDD).
