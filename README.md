@@ -51,7 +51,7 @@ A streamlined data pipeline validating modern architectural viability—from raw
 * 👾 MicroFrontend
 * 👾 IoT (Internet of Things) Architecture.
 * 👾 Architectures: Hexagonal, Serverless, IaT, MVP, MVC, MVVM, TOGAF.
-* 👾 System Design.
+* 👾 Design System.
 * 👾 Design Patterns.
 * 👾 Clean Architecture.
 * 👾 Domain-Driven Design (DDD).
@@ -60,6 +60,7 @@ A streamlined data pipeline validating modern architectural viability—from raw
 * 👾 Reverse Engineering.
 * 👾 Microservices.
 * 👾 API Testing: HTTP Methods, Status Codes, Payloads, and Contracts | Postman, GraphQL, and gRPC.
+* 👾 RabbitMQ and Apache Kafka Queue Structure
 * 👾 UML, BPMN.
 * 👾 Dashboards.
 
